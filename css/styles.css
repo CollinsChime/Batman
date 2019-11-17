@@ -1,0 +1,88 @@
+a{
+  text-decoration: none;
+  color: #075895;
+}
+a:hover{
+  color: white;
+  background-color: #243be5;
+}
+body{
+  margin: 0;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 20px;
+  line-height: 35px;
+  background-color: #cce6ff;
+
+
+
+}
+
+h1, h2{
+  font-family: 'Shadows Into Light', cursive;
+}
+/*  header style */
+
+header{
+  background-color: #1e90ff;
+  text-align: center;
+  padding: 50px 0;
+}
+header h1{
+  color: #034458;
+  font-size: 50px;
+}
+header img{
+  border-radius: 180%;
+  width: 300px;
+  border: 10px solid #245f8b;
+}
+
+/* main style */
+
+main{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+
+
+}
+
+main img{
+  max-width: 100%;
+}
+h2{
+  font-size: 35px;
+  color: #075895;
+  margin: 50px 0 10px;
+}
+
+/* footer style */
+
+footer{
+  background-color: #1e90ff;
+  font-size: 13px;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+footer p{
+  margin: 0;
+}
+.caption{
+  color: #007acc;
+  font-style: italic;
+  font-size: 16px;
+  margin-top: 0;
+}
+.batman-enemies{
+  max-width: 100%;
+  margin-top: 40px;
+
+}
+.caption2{
+color: #007acc;
+font-style: italic;
+font-size: 16px;
+margin-top: 0;
+margin-bottom: 50px;
+  }
